@@ -23,7 +23,3 @@ Web developer, UI/UX design enthusiast, and a professional procrastinator. Under
 ## 📫 Contact
 
 To get in touch, Mail me on [Gmail](mailto:edwardhyde20126@gmail.com).
-
-```txt
-edwardhyde20126@gmail.com
-```

@@ -24,6 +24,10 @@ Web developer, UI/UX design enthusiast, and a professional procrastinator. Under
 
 To get in touch, Mail me on [Gmail](mailto:edwardhyde20126@gmail.com).
 
+<!--START_SECTION:waka-->
+
 ```txt
-edwardhyde20126@gmail.com
+No activity tracked
 ```
+
+<!--END_SECTION:waka-->

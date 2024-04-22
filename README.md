@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hey, I'm Edward 👋
 
-<!--
-**Edward-126/Edward-126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer, UI/UX design enthusiast, and a professional procrastinator. Undergraduate, but I learn more from YouTube. If you need something done tomorrow, hit me up today. #LazyGenius
 
-Here are some ideas to get you started:
+- Check out my [Portfolio](https://edward-hyde.vercel.app/) to learn more about me.
+- Explore my [Documentation](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Toolbox
+
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+
+**Backend Development:** `MongoDB` `Sanity` `MySQL`
+
+**Version Control:** `Git` `GitHub`
+
+**Others:** `Clerk` `Vercel` `Figma`
+
+## ✨ Fun Facts
+
+- I am a perfectionist & a clean-freak.
+- I love learning new things, especially in the field of technology.
+
+## 📫 Contact
+
+To get in touch, Mail me on [Gmail](mailto:edwardhyde20126@gmail.com).
+
+```txt
+edwardhyde20126@gmail.com
+```

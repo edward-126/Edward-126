@@ -2,7 +2,7 @@
 
 Web developer, UI/UX design enthusiast, and a professional procrastinator. Undergraduate, but I learn more from YouTube. If you need something done tomorrow, hit me up today. #LazyGenius
 
-- Check out my [Portfolio](https://edward-hyde.vercel.app/) to learn more about me.
+- Check out my [Portfolio](https://its-thilina.vercel.app/) to learn more about me.
 - Explore my [Documentation](https://nobs-docs.vercel.app/) where I share insights and learnings.
 
 ## 📦 Toolbox

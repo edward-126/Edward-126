@@ -1,9 +1,10 @@
-### Hey, I'm Edward 👋
+### Hey, I'm Edward Hyde 👋 (A.K.A. Thilina Rathnayaka)
 
 Web developer, UI/UX design enthusiast, and a professional procrastinator. Undergraduate, but I learn more from YouTube. If you need something done tomorrow, hit me up today. #LazyGenius
 
 - Check out my [Portfolio](https://its-thilina.vercel.app/) to learn more about me.
 - Explore my [Documentation](https://nobs-docs.vercel.app/) where I share insights and learnings.
+- Discover my curated [Watchlist](#) of movies, TV shows, and animes I’ve enjoyed.
 
 ## 📦 Toolbox
 
@@ -19,6 +20,7 @@ Web developer, UI/UX design enthusiast, and a professional procrastinator. Under
 
 - I am a perfectionist & a clean-freak.
 - I love learning new things, especially in the field of technology.
+- I’m an introvert who thrives in solitude and avoids crowds.
 
 ## 📫 Contact
 

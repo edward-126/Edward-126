@@ -4,7 +4,6 @@ Web developer, UI/UX design enthusiast, and a professional procrastinator. Under
 
 - Check out my [Portfolio](https://its-thilina.vercel.app/) to learn more about me.
 - Explore my [Documentation](https://nobs-docs.vercel.app/) where I share insights and learnings.
-- Discover my curated [Watchlist](#) of movies, TV shows, and animes I’ve enjoyed.
 
 ## 📦 Toolbox
 

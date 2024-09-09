@@ -13,7 +13,7 @@ Web developer, UI/UX design enthusiast, and a professional procrastinator. Under
 
 **Version Control:** `Git` `GitHub`
 
-**Others:** `Clerk` `Vercel` `Figma`
+**Others:** `Vercel` `Figma`
 
 ## ✨ Fun Facts
 

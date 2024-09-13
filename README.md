@@ -3,7 +3,7 @@
 Web developer, UI/UX design enthusiast, and a professional procrastinator. Undergraduate, but I learn more from YouTube. If you need something done tomorrow, hit me up today. #LazyGenius
 
 - Check out my [Portfolio](https://its-thilina.vercel.app/) to learn more about me.
-- Explore my [Documentation](https://its-thilina-blog.vercel.app/) where I share insights and learnings.
+- Explore my [Blog](https://its-thilina-blog.vercel.app/) where I share insights and learnings.
 
 ## 📦 Toolbox
 

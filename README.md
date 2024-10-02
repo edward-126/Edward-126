@@ -1,9 +1,11 @@
-### Hey, I'm Edward Hyde 👋 (A.K.A. Thilina Rathnayaka)
+# Hey, I'm Edward Hyde 👋 (A.K.A. Thilina Rathnayaka)
 
-Web developer, UI/UX design enthusiast, and a professional procrastinator. Undergraduate, but I learn more from YouTube. If you need something done tomorrow, hit me up today. #LazyGenius
+I'm a **web developer**, **UI/UX design enthusiast**, and your go-to **professional procrastinator** with a knack for turning ideas into interactive, engaging digital experiences. While I'm still an undergraduate, my best lessons often come from late-night YouTube marathons and deep dives into new tech.
 
-- Check out my [Portfolio](https://its-thilina.vercel.app/) to learn more about me.
-- Explore my [Blog](https://its-thilina-blog.vercel.app/) where I share insights and learnings.
+Need something done tomorrow? Better call me today—#LazyGenius at your service.
+
+- Curious? Check out my [**Portfolio**](https://its-thilina.vercel.app/) to see what I've been working on.
+- Dive into my [**Blog**](https://its-thilina-blog.vercel.app/) where I break down the tech world and share useful insights.
 
 ## 📦 Toolbox
 
@@ -11,16 +13,14 @@ Web developer, UI/UX design enthusiast, and a professional procrastinator. Under
 
 **Backend Development:** `MongoDB` `Sanity` `MySQL`
 
-**Version Control:** `Git` `GitHub`
-
-**Others:** `Vercel` `Figma`
+**Design:** `Figma` `Photoshop`
 
 ## ✨ Fun Facts
 
-- I am a perfectionist & a clean-freak.
-- I love learning new things, especially in the field of technology.
-- I’m an introvert who thrives in solitude and avoids crowds.
+- I'm obsessed with pixel-perfect designs—call it perfectionism or just clean-freak vibes.
+- Always learning! If it's about tech, you'll find me diving into it head-first.
+- Introverted to the core, I find peace in solitude and get anxious around crowds, so virtual handshakes are always preferred.
 
-## 📫 Contact
+## 📫 How to reach me
 
-To get in touch, Mail me on [Gmail](mailto:edwardhyde20126@gmail.com).
+Drop me a line at [**Gmail**](mailto:edwardhyde20126@gmail.com) if you want to chat or collaborate!

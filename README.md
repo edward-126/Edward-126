@@ -9,9 +9,9 @@ Need something done tomorrow? Better call me today—#LazyGenius at your service
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+**Frontend:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
 
-**Backend Development:** `MongoDB` `Sanity` `MySQL`
+**Backend:** `MongoDB` `Sanity` `MySQL`
 
 **Design:** `Figma` `Photoshop`
 

@@ -4,8 +4,8 @@ I'm a **web developer**, **UI/UX design enthusiast**, and your go-to **professio
 
 Need something done tomorrow? Better call me today—#LazyGenius at your service.
 
-- Curious? Check out my [**Portfolio**](https://its-thilina.vercel.app/) to see what I've been working on.
-- Dive into my [**Blog**](https://its-thilina-blog.vercel.app/) where I break down the tech world and share useful insights.
+- Curious? Check out my [**Portfolio**](https://thilina.dev/) to see what I've been working on.
+- Dive into my [**Blog**](https://blog.thilina.dev/) where I break down the tech world and share useful insights.
 
 ## 📦 Toolbox
 

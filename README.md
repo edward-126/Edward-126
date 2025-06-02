@@ -1,26 +1,34 @@
-# Hey, I'm Edward Hyde 👋 (A.K.A. Thilina Rathnayaka)
+# Hey there! 👋 I'm Edward Hyde (A.K.A. Thilina Rathnayaka)
 
-I'm a **web developer**, **UI/UX design enthusiast**, and your go-to **professional procrastinator** with a knack for turning ideas into interactive, engaging digital experiences. While I'm still an undergraduate, my best lessons often come from late-night YouTube marathons and deep dives into new tech.
+**Developer. Creator of [linkdrop.dev](https://linkdrop.dev)**
 
-Need something done tomorrow? Better call me today—#LazyGenius at your service.
+> Professional procrastinator who somehow ships products 🚀
 
-- Curious? Check out my [**Portfolio**](https://thilina.dev/) to see what I've been working on.
-- Dive into my [**Blog**](https://blog.thilina.dev/) where I break down the tech world and share useful insights.
+## 🎯 What I Do
 
-## 📦 Toolbox
+I turn caffeine into code and ideas into interactive experiences. Currently building tools that make the internet a little less chaotic, one link at a time.
 
-**Frontend:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+## 🛠️ Daily Drivers
 
-**Backend:** `MongoDB` `Sanity` `MySQL`
+**Code:** `Next.js` • `React` • `TypeScript` • `Tailwind CSS`  
 
-**Design:** `Figma` `Photoshop`
+**Data:** `MongoDB` • `Sanity` • `MySQL`  
 
-## ✨ Fun Facts
+**Design:** `Figma` • `Photoshop`  
 
-- I'm obsessed with pixel-perfect designs—call it perfectionism or just clean-freak vibes.
-- Always learning! If it's about tech, you'll find me diving into it head-first.
-- Introverted to the core, I find peace in solitude and get anxious around crowds, so virtual handshakes are always preferred.
+**Deploy:** `Vercel` (obviously)
 
-## 📫 How to reach me
+## 🎭 Random Edward Facts
 
-Drop me a line at [**Gmail**](mailto:edwardhyde20126@gmail.com) if you want to chat or collaborate!
+- Perfectionist with pixels (yes, I zoom to 400% to check alignment)
+- Introvert who prefers async communication over meetings
+- Learning addict: If it's tech-related, I've probably bookmarked it
+- Firm believer that the best code is written at 2 AM
+- Built [LinkDrop](https://linkdrop.dev) because collaborative link sharing needed to exist
+
+## 📬 Let's Connect
+
+Got an idea? Want to collaborate? Or just want to say hi?  
+Drop me a line: **[edwardhyde20126@gmail.com](mailto:edwardhyde20126@gmail.com)**
+
+*Virtual handshakes preferred* 🤝

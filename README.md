@@ -6,7 +6,7 @@
 
 ## 🎯 What I Do
 
-I turn caffeine into code and ideas into interactive experiences. Currently building tools that make the internet a little less chaotic, one link at a time.
+I turn caffeine into code and ideas into interactive experiences.
 
 ## 🛠️ Daily Drivers
 

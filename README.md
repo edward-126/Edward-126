@@ -14,7 +14,7 @@ I turn caffeine into code and ideas into interactive experiences.
 
 **Data:** `MongoDB` • `Sanity` • `MySQL`  
 
-**Design:** `Figma` • `Photoshop`  
+**Design:** `Figma`
 
 **Deploy:** `Vercel` (obviously)
 

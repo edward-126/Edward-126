@@ -1,7 +1,9 @@
-# Hey there! I'm Edward Hyde
-*Also known as Thilina Rathnayaka when I have to sign things.*
+# Hey there! I'm Thilina Rathnayaka
+*You'll see `edward-126` on the commits. Same person.*
 
-Developer. I build things that (mostly) work.
+Developer & Designer. I build quiet, considered web apps in TypeScript and React, the kind you never notice because they just work.
+
+🌐 [thilina.dev](https://thilina.dev) · ✍️ [blog.thilina.dev](https://blog.thilina.dev)
 
 ### Stack
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS`  
@@ -16,5 +18,5 @@ Developer. I build things that (mostly) work.
 ---
 
 ### Say Hi!
-**[edwardhyde20126@gmail.com](mailto:edwardhyde20126@gmail.com)**  
+**[rathnayaka3548@gmail.com](mailto:rathnayaka3548@gmail.com)**  
 *Virtual handshakes only.*

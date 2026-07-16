@@ -1,10 +1,8 @@
 <div align="center">
 
-<br />
+# Hey there! I'm Thilina Rathnayaka
 
-### Hey there! I'm Thilina Rathnayaka
-
-<a href="https://thilina.dev/">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://blog.thilina.dev/">Blog</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/its-thilinar/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.npmjs.com/~edward-hyde">npm</a>
+<a href="https://thilina.dev/">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://blog.thilina.dev/">Blog</a>&nbsp;&nbsp;
 
 <sub>You'll see <code>edward-126</code> on the commits. Same person.</sub>
 

@@ -10,8 +10,8 @@
 
 > I build quiet, considered web apps in TypeScript and React. The kind you never notice because they just work.
 
-```txt
-TypeScript / React / Next.js / Tailwind CSS / design systems
+```
+TypeScript / React / Next.js / Tailwind CSS
 ```
 
 <table>

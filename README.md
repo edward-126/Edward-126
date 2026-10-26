@@ -2,13 +2,13 @@
 
 # Hey there! I'm Thilina Rathnayaka
 
-<a href="https://thilina.dev/">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://blog.thilina.dev/">Blog</a>&nbsp;&nbsp;
+<a href="https://thilina.dev/">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://thilina.dev/work">Work</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://blog.thilina.dev/">Blog</a>&nbsp;&nbsp;
 
 <sub>But online, I go by **Edward**.</sub>
 
 </div>
 
-> I build quiet, considered web apps in TypeScript and React. The kind you never notice because they just work.
+> A developer and designer in Colombo, Sri Lanka. I build websites and web apps with TypeScript and React, and I spend too long on details like load times and hover states.
 
 ```
 TypeScript / React / Next.js / Tailwind CSS
@@ -16,25 +16,31 @@ TypeScript / React / Next.js / Tailwind CSS
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
-      <sub>01 / MOTION</sub><br /><br />
-      <a href="https://project-near-field.vercel.app/"><strong>near-field</strong></a><br />
-      Cursor proximity as a CSS input. One tiny import exposes how close the pointer is to an element as custom properties, plus three pre-tuned effects built on that primitive.<br /><br />
+    <td width="50%" valign="top">
+      <sub>01 / LIBRARY</sub><br /><br />
+      <a href="https://thilina.dev/work/near-field"><strong>near-field</strong></a><br />
+      A tiny library that turns cursor proximity into CSS custom properties, so a hover effect can build as the pointer approaches instead of snapping on.<br /><br />
       <sub>Zero dependencies · on npm</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / CLI</sub><br /><br />
+      <a href="https://thilina.dev/work/template-next"><strong>Template-NEXT</strong></a><br />
+      A command-line tool that scaffolds clean, minimal Next.js projects: opinionated defaults, no bloat, and a working app in seconds.<br /><br />
+      <sub>npx @edward-hyde/template-next</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>02 / REGISTRY</sub><br /><br />
-      <a href="https://ui.thilina.dev/"><strong>ui.thilina.dev</strong></a><br />
-      Components you can pull straight into your own project with the shadcn CLI.<br /><br />
-      <sub>shadcn compatible · copy or install</sub>
+      <sub>03 / REAL-TIME</sub><br /><br />
+      <a href="https://thilina.dev/work/linkdrop"><strong>LinkDrop</strong></a><br />
+      A collaborative, real-time board where a group drops links and everyone sees them appear instantly.<br /><br />
+      <sub>Next.js · Sanity · Framer Motion</sub>
     </td>
     <td width="50%" valign="top">
-      <sub>03 / STARTER</sub><br /><br />
-      <a href="https://template-next-official.vercel.app/"><strong>Template-NEXT</strong></a><br />
-      A clean Next.js starter. TypeScript, Tailwind CSS, React Compiler, shadcn/ui and Prettier already wired up.<br /><br />
-      <sub>npx @edward-hyde/template-next my-app</sub>
+      <sub>04 / COMPUTER VISION</sub><br /><br />
+      <a href="https://thilina.dev/work/scopeai"><strong>ScopeAI</strong></a><br />
+      A real-time polyp detection tool for colonoscopy images, built with YOLOv8 to run on modest hardware in clinics.<br /><br />
+      <sub>YOLOv8 · Flask · Next.js</sub>
     </td>
   </tr>
 </table>
